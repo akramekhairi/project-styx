@@ -20,13 +20,13 @@ flowchart to the space provided.
 - The app is targeting mainly educational professions as well as students, as the template
 can be used for educating in any topic of choice.
 
+#### Press on a topic in order to go to its respective flowchart and then tap the screen to place the flowchart and press on each card to find more information about it. Watch the video below for a demo.
+#### `<Video>` : <https://youtu.be/sR3savealpc>
 
 ## How to use the app:
 ![](https://i.imgur.com/FxawrzT.jpg)
 #### Above is the registration page, just type in your details and press the arrow to go to the main menu(below) or press existing user to go to the login page
 ![](https://i.imgur.com/zzsUAVI.jpg)
-#### Press on a topic in order to go to its respective flowchart and then tap the screen to place the flowchart and press on each card to find more information about it. Watch the video below for a demo.
-#### `<Video>` : <https://youtu.be/sR3savealpc>
 #### Finally, the profile page (shown below) that you reach by pressing the profile button in the top right corner of the main  is used to see your details and change your password:
 ![](https://i.imgur.com/GPyrCsY.jpg)
 
